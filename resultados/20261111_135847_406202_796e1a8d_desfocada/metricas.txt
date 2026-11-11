@@ -1,9 +1,0 @@
-Imagem: imagem_desfocada.png
-Operação: desfocada
-Limiar experimental: 100
-Nitidez original: 435.95
-Nitidez final: 3.66
-Luminosidade original: 120.98
-Luminosidade final: 121.14
-Contraste original: 70.47
-Contraste final: 69.83

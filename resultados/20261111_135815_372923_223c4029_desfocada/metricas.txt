@@ -1,9 +1,0 @@
-Imagem: canva-filhote-de-cachorro.jpg
-Operação: desfocada
-Limiar experimental: 100
-Nitidez original: 989.62
-Nitidez final: 15.10
-Luminosidade original: 133.67
-Luminosidade final: 133.63
-Contraste original: 43.41
-Contraste final: 39.59
