@@ -1,0 +1,10 @@
+Imagem: imagem_desfocada.png
+Classificação: indeterminada
+Operação: sem_alteracoes
+Limiares experimentais: 100 e 500
+Nitidez original: 435.95
+Nitidez final: 435.95
+Luminosidade original: 120.98
+Luminosidade final: 120.98
+Contraste original: 70.47
+Contraste final: 70.47
